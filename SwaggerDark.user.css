@@ -9,6 +9,7 @@
 @author      Amoenus
 ==/UserStyle== */
 
+@-moz-document url-prefix("https://petstore.swagger.io/"), regexp(".*/swagger/index.html$") {
 a { color: #8c8cfa; }
 
 ::-webkit-scrollbar-track-piece { background-color: rgba(255, 255, 255, .2) !important; }
@@ -837,4 +838,5 @@ font, html { color: #bfbfbf; }
         linear-gradient(150deg, #696969 40%, rgba(0, 0, 0, 0) 41%),
         linear-gradient(270deg, #696969 30%, rgba(0, 0, 0, 0) 31%);
     background-color: #b6b6b6;
+}
 }
