@@ -1,12 +1,12 @@
 /* ==UserStyle==
 @name        Amoenus Swagger Dark
 @namespace   https://github.com/Amoenus/SwaggerDark
-@version     1.0.0
+@version     1.0.1
 @description A dark UserCSS style for Swagger
-@homepageURL https://github.com/Amoenus/SwaggerDark
-@updateURL   https://github.com/Amoenus/SwaggerDark/raw/master/SwaggerDark.user.css
+@homepageURL https://github.com/elibroftw/SwaggerDark
+@updateURL   https://github.com/elibroftw/SwaggerDark/raw/master/SwaggerDark.user.css
 @license     MIT
-@author      Amoenus
+@author      Amoenus, Elijah Lopez @elibroftw
 ==/UserStyle== */
 
 @-moz-document url-prefix("https://petstore.swagger.io/"), regexp(".*/swagger/index.html$") {
