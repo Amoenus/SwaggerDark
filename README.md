@@ -6,9 +6,9 @@ CSS with dark theme for SwaggerUI
 
 ## Example
 
-![Screenshot 1 of Swagger Dark Theme](https://raw.githubusercontent.com/Amoenus/SwaggerDark/master/SwaggerDark.png "Swagger Dark Theme Screenshot 1")
+![Screenshot 1 of Swagger Dark Theme](/SwaggerDark.png "Swagger Dark Theme Screenshot 1")
 
-![Screenshot 2 of Swagger Dark Theme](https://raw.githubusercontent.com/elibroftw/SwaggerDark/master/SwaggerDark2.png "Swagger Dark Theme Screenshot 2")
+![Screenshot 2 of Swagger Dark Theme](/SwaggerDark2.png "Swagger Dark Theme Screenshot 2")
 
 ### Installation & Usage Guides
 
