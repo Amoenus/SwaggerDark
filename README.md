@@ -10,6 +10,8 @@ CSS with dark theme for SwaggerUI
 
 ![Screenshot 2 of Swagger Dark Theme](/SwaggerDark2.png "Swagger Dark Theme Screenshot 2")
 
+![Screenshot 3 of Swagger Dark Theme](/SwaggerDark3.png "Swagger Dark Theme Screenshot 3")
+
 ### Installation & Usage Guides
 
 - [ASP.NET](https://blog.elijahlopez.ca/posts/aspnet-swagger-dark-theme/)
