@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name        Amoenus Swagger Dark
 @namespace   https://github.com/Amoenus/SwaggerDark
-@version     1.0.1
+@version     1.0.2
 @description A dark UserCSS style for Swagger
 @homepageURL https://github.com/elibroftw/SwaggerDark
 @updateURL   https://github.com/elibroftw/SwaggerDark/raw/master/SwaggerDark.user.css
@@ -10,7 +10,6 @@
 ==/UserStyle== */
 
 @-moz-document url-prefix("https://petstore.swagger.io/"), regexp(".*/swagger/index.html$") {
-
 @media only screen and (prefers-color-scheme: dark) {
 
     a { color: #8c8cfa; }
