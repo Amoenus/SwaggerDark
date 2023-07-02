@@ -589,6 +589,11 @@
         color: #e69999;
     }
 
+    .swagger-ui .btn.cancel:hover {
+        background-color: #a72a2a;
+        color: #fff;
+    }
+
     .swagger-ui .btn.authorize {
         border-color: #48cb90;
         color: #9ce3c3;
