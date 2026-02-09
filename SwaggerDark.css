@@ -720,7 +720,7 @@
     /* arrows for each operation and request are now white */
     .arrow, #large-arrow-up { fill: #fff; }
 
-    #unlocked { fill: #fff; }
+    #unlocked, #locked { fill: #fff; }
 
     ::-webkit-scrollbar-track { background-color: #646464 !important; }
 
